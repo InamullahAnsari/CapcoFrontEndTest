@@ -1,0 +1,1 @@
+import{E as e}from"./utils-12T_Mppr.js";function t(){return e(`/create-account`)}export{t as clientLoader};

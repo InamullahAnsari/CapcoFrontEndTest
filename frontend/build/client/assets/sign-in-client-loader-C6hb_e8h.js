@@ -1,0 +1,1 @@
+import{r as e}from"./-return-target-BGyWVnmt.js";function t({request:t}){let n=Object.fromEntries(new URL(t.url).searchParams);return e(n)}export{t as clientLoader};
