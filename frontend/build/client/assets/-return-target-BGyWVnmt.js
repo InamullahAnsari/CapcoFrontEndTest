@@ -1,0 +1,1 @@
+function e(e){let n=e.returnTo;return typeof n==`string`&&t(n)?{returnTo:n}:{}}function t(e){return e.startsWith(`/applications/`)&&!e.startsWith(`//`)}function n(e,t){return t?`${e}?returnTo=${encodeURIComponent(t)}`:e}export{t as n,e as r,n as t};

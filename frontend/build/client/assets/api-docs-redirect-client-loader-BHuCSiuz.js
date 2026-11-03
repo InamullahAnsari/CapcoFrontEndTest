@@ -1,0 +1,1 @@
+import{E as e}from"./utils-12T_Mppr.js";function t(){return e(`/api-docs`)}export{t as clientLoader};

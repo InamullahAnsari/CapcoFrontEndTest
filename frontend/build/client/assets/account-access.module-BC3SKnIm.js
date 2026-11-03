@@ -1,0 +1,1 @@
+var e={page:`_page_okmad_1`,card:`_card_okmad_11`,cardContent:`_cardContent_okmad_25`,form:`_form_okmad_31`,submit:`_submit_okmad_37`,footer:`_footer_okmad_43`};export{e as t};

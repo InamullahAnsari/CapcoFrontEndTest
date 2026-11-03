@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/swagger-ui-react-D_H6yj9J.js","assets/react-BqBvWGiZ.js","assets/react-dom-B0iBkxEe.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./preload-helper-BZ1Pz5am.js";async function t(){let{default:t}=await e(async()=>{let{default:e}=await import(`./swagger-ui-react-D_H6yj9J.js`);return{default:e}},__vite__mapDeps([0,1,2]));return{SwaggerUI:t}}export{t as clientLoader};
